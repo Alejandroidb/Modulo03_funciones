@@ -1,0 +1,22 @@
+/* estilos generales a aplicar en todas las paginas */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* estilo a aplicar en container.html */
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+/* estilo a aplicar en todas las paginas para los botones */
+.follow {
+    display: flex;
+    justify-content: space-between;
+}
+/* estilo a aplicar en cambiar_color.html */
+.contain {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
